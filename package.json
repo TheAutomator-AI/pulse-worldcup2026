@@ -1,0 +1,19 @@
+{
+  "name": "pulse-worldcup2026",
+  "version": "1.0.0",
+  "description": "PULSE — a GenAI-powered stadium intelligence concept for the FIFA World Cup 2026.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "license": "MIT",
+  "author": "Raja"
+}
